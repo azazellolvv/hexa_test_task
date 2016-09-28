@@ -1,7 +1,7 @@
 {
   "name": "lishchenkovv/upload_img",
   "type": "package",
-  "version": "dev",
+  "version": "dev-master",
   "description": "Upload remote images",
   "keywords": ["log","logging"],
   "homepage": "https://github.com/azazellolvv/hexa_test_task",
