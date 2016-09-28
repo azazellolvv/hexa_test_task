@@ -4,7 +4,7 @@
   "minimum-stability": "1.0",
   "autoload": {
     "classmap": [
-      "upload_img/src/"
+      "lishchenkovv/upload_img/src/"
     ]
   },
   "authors": [
