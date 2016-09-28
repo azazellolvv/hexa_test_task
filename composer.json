@@ -1,0 +1,16 @@
+{
+  "name": "lishchenkovv/upload_img",
+  "description": "Test task for hexa",
+  "minimum-stability": "1.0",
+  "autoload": {
+    "classmap": [
+      "upload_img/src/"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Lishchenko Vasyl",
+      "email": "lishchenkovv@gmail.com"
+    }
+  ]
+}
