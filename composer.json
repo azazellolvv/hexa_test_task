@@ -2,6 +2,20 @@
   "name": "lishchenkovv/upload_img",
   "description": "Test task for hexa",
   "minimum-stability": "1.0",
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "azazellolvv/hexa_test_task",
+        "version": "dev-master",
+        "source": {
+          "url": "https://github.com/azazellolvv/hexa_test_task/",
+          "type": "git",
+          "reference": "origin/master"
+        }
+      }
+    }
+  ],
   "autoload": {
     "classmap": [
       "lishchenkovv/upload_img/src/"
