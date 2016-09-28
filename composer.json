@@ -1,30 +1,23 @@
 {
   "name": "lishchenkovv/upload_img",
-  "description": "Test task for hexa",
-  "version": "dev",
-//  "repositories": [
-//    {
-//      "type": "package",
-//      "package": {
-//        "name": "azazellolvv/hexa_test_task",
-//        "version": "dev-master",
-//        "source": {
-//          "url": "https://github.com/azazellolvv/hexa_test_task.git",
-//          "type": "git",
-//          "reference": "origin/master"
-//        }
-//      }
-//    }
-//  ],
-  "autoload": {
-    "classmap": [
-      "lishchenkovv/upload_img/src/"
-    ]
-  },
+  "type": "package",
+  "description": "Upload remote images",
+  "keywords": ["log","logging"],
+  "homepage": "https://github.com/azazellolvv/hexa_test_task",
+  "license": "MIT",
   "authors": [
     {
       "name": "Lishchenko Vasyl",
-      "email": "lishchenkovv@gmail.com"
+      "email": "lishchenkovv@gmail.com",
+      "role": "Developer"
     }
-  ]
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Monolog": "src"
+    }
+  }
 }
