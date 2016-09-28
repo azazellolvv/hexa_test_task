@@ -9,7 +9,7 @@
         "name": "azazellolvv/hexa_test_task",
         "version": "dev-master",
         "source": {
-          "url": "https://github.com/azazellolvv/hexa_test_task/",
+          "url": "https://github.com/azazellolvv/hexa_test_task.git",
           "type": "git",
           "reference": "origin/master"
         }
