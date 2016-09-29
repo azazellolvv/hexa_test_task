@@ -1,7 +1,9 @@
 {
   "name": "lishchenkovv/upload_img",
+  "type": "package",
   "version": "dev",
   "description": "Upload remote images",
+  "license": "MIT",
   "authors": [
     {
       "name": "Lishchenko Vasyl",
