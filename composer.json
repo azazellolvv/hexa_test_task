@@ -8,5 +8,10 @@
       "email": "lishchenkovv@gmail.com",
       "role": "Developer"
     }
-  ]
+  ],
+  "autoload": {
+    "classmap": [
+      "lishchenkovv/upload_img/src/"
+    ]
+  }
 }
