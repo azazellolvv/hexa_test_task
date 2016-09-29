@@ -1,7 +1,6 @@
 {
   "name": "lishchenkovv/upload_img",
-  "type": "package",
-  "version": "dev-master",
+  "version": "dev",
   "description": "Upload remote images",
   "authors": [
     {
